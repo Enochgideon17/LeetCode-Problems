@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
