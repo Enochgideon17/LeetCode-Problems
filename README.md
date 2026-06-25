@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
