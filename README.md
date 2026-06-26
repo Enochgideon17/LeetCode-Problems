@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
