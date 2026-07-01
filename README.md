@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,18 +165,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0113-path-sum-ii) |
