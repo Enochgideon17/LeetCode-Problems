@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
