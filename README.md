@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
