@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Memoization
 |  |
