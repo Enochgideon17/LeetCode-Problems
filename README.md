@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
