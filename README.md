@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
