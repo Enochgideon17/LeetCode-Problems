@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 ## Linked List
 |  |
