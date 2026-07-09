@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0799-champagne-tower](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
