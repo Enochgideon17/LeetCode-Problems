@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -185,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0739-daily-temperatures](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
