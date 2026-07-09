@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Quickselect
 |  |
 | ------- |
