@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0322-coin-change) |
+| [2685-count-the-number-of-complete-components](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -318,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
