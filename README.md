@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1929-concatenation-of-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Brainteaser
 |  |
 | ------- |
