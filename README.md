@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0832-flipping-an-image](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Union-Find
 |  |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Brainteaser
 |  |
