@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -355,9 +359,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
