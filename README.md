@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1882-process-tasks-using-servers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Enochgideon17/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
